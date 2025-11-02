@@ -1,4 +1,4 @@
-import { html, render } from 'lit-html';
+import { html, render } from 'https://cdn.jsdelivr.net/npm/lit-html@2.0.0/development/lit-html.js';
 
 const routes = {};
 // const appContainer = document.getElementById('app-container');
