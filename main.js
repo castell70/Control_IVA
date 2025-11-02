@@ -1,9 +1,9 @@
 import { initializeRouter, registerRoute } from './router.js';
-import { HomeView } from './views/home-view.js';
-import { EntitiesView } from './views/clients-suppliers-view.js';
-import { RecordsView } from './views/sales-purchase-view.js';
-import { ReportsView } from './views/reports-view.js';
-import { DownloadView } from './views/download-view.js';
+import { HomeView } from './home-view.js';
+import { EntitiesView } from './clients-suppliers-view.js';
+import { RecordsView } from './sales-purchase-view.js';
+import { ReportsView } from './reports-view.js';
+import { DownloadView } from './download-view.js';
 
 
 // Register Routes
